@@ -99,6 +99,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-security-latest</finalName>
 	</build>
 
 </project>
